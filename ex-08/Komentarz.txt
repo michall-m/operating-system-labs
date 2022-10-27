@@ -1,0 +1,20 @@
+Czasy wykonywania metody numbers są w każdym przypadku dłuższe.
+Taka zależność wynika z tego, że w tejże metodzie wielowątkowość
+procesu nie została w ogóle wykorzystana.
+
+Dla metody blocks problem został odpowiednio zaimplementowany,
+to znaczy - każdy z wątków zajmował się swoją częscią odgórnie
+ustalonych pikseli, krótki(stały?) "preprocessing" na miare pro-
+blemu.
+
+Metoda numbers nie jest ani troche przystosowana do problemu.
+Każdy wątek wykonuje te same operacje, a następnie wybiera
+wartości na których będzie je wykonywał. Samo sprawdzanie
+w tej metodzie jest bardziej czasochłonne niż wykonanie odejmowania.
+Taka metoda mogłaby się sprawdzić, gdybyśmy mieli bardziej czaso-
+chłonne operacje podzielone na grupy i chcielibyśmy, aby każdy
+z wątków wybierał pewien zbiór operacji o sumarycznie zbliżonym czasie.
+Dla takich operacji metoda block mogłaby się nie sprawdzić, gdyż
+jeden z wątków mógłby hipotetycznie wykonywać tylko najdłuższe
+operacje, a inny tylko najkrotsze, co wydłuzyłoby pracę całego
+procesu, względem użycia metody numbers.

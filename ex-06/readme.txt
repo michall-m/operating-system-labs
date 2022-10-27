@@ -1,0 +1,1 @@
+Przed komendą należy dać ! (Wykrzyknik), np. !STOP, !DISCONNECT, !LIST, !CONNECT 3.

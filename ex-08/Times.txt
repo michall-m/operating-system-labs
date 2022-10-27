@@ -1,0 +1,222 @@
+
+-----------------------------------------
+Number of threads: 1.
+Used method: numbers.
+=========================================
+Thread index: 0.	 Time: 2169[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 2263[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 1.
+Used method: block.
+=========================================
+Thread index: 0.	 Time: 848[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 975[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 2.
+Used method: numbers.
+=========================================
+Thread index: 0.	 Time: 1408[us].
+Thread index: 1.	 Time: 1695[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 1793[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 2.
+Used method: block.
+=========================================
+Thread index: 0.	 Time: 508[us].
+Thread index: 1.	 Time: 812[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 1019[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 4.
+Used method: numbers.
+=========================================
+Thread index: 0.	 Time: 1733[us].
+Thread index: 1.	 Time: 2793[us].
+Thread index: 2.	 Time: 2489[us].
+Thread index: 3.	 Time: 1572[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 3385[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 4.
+Used method: block.
+=========================================
+Thread index: 0.	 Time: 678[us].
+Thread index: 1.	 Time: 436[us].
+Thread index: 2.	 Time: 427[us].
+Thread index: 3.	 Time: 642[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 827[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 8.
+Used method: numbers.
+=========================================
+Thread index: 0.	 Time: 1801[us].
+Thread index: 1.	 Time: 2840[us].
+Thread index: 2.	 Time: 4519[us].
+Thread index: 3.	 Time: 2259[us].
+Thread index: 4.	 Time: 3448[us].
+Thread index: 5.	 Time: 3391[us].
+Thread index: 6.	 Time: 1757[us].
+Thread index: 7.	 Time: 1577[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 4699[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 8.
+Used method: block.
+=========================================
+Thread index: 0.	 Time: 263[us].
+Thread index: 1.	 Time: 249[us].
+Thread index: 2.	 Time: 244[us].
+Thread index: 3.	 Time: 231[us].
+Thread index: 4.	 Time: 303[us].
+Thread index: 5.	 Time: 235[us].
+Thread index: 6.	 Time: 253[us].
+Thread index: 7.	 Time: 246[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 695[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 16.
+Used method: numbers.
+=========================================
+Thread index: 0.	 Time: 1840[us].
+Thread index: 1.	 Time: 1741[us].
+Thread index: 2.	 Time: 2432[us].
+Thread index: 3.	 Time: 1811[us].
+Thread index: 4.	 Time: 1895[us].
+Thread index: 5.	 Time: 1810[us].
+Thread index: 6.	 Time: 2403[us].
+Thread index: 7.	 Time: 1960[us].
+Thread index: 8.	 Time: 1975[us].
+Thread index: 9.	 Time: 4593[us].
+Thread index: 10.	 Time: 3195[us].
+Thread index: 11.	 Time: 1924[us].
+Thread index: 12.	 Time: 1705[us].
+Thread index: 13.	 Time: 1873[us].
+Thread index: 14.	 Time: 1567[us].
+Thread index: 15.	 Time: 1528[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 8657[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 16.
+Used method: block.
+=========================================
+Thread index: 0.	 Time: 128[us].
+Thread index: 1.	 Time: 113[us].
+Thread index: 2.	 Time: 249[us].
+Thread index: 3.	 Time: 193[us].
+Thread index: 4.	 Time: 116[us].
+Thread index: 5.	 Time: 115[us].
+Thread index: 6.	 Time: 122[us].
+Thread index: 7.	 Time: 107[us].
+Thread index: 8.	 Time: 111[us].
+Thread index: 9.	 Time: 111[us].
+Thread index: 10.	 Time: 115[us].
+Thread index: 11.	 Time: 116[us].
+Thread index: 12.	 Time: 112[us].
+Thread index: 13.	 Time: 112[us].
+Thread index: 14.	 Time: 120[us].
+Thread index: 15.	 Time: 115[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 811[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 32.
+Used method: numbers.
+=========================================
+Thread index: 0.	 Time: 1701[us].
+Thread index: 1.	 Time: 1647[us].
+Thread index: 2.	 Time: 14904[us].
+Thread index: 3.	 Time: 1875[us].
+Thread index: 4.	 Time: 1712[us].
+Thread index: 5.	 Time: 1705[us].
+Thread index: 6.	 Time: 1736[us].
+Thread index: 7.	 Time: 1734[us].
+Thread index: 8.	 Time: 1753[us].
+Thread index: 9.	 Time: 1789[us].
+Thread index: 10.	 Time: 1849[us].
+Thread index: 11.	 Time: 1853[us].
+Thread index: 12.	 Time: 1945[us].
+Thread index: 13.	 Time: 1841[us].
+Thread index: 14.	 Time: 2164[us].
+Thread index: 15.	 Time: 1833[us].
+Thread index: 16.	 Time: 2392[us].
+Thread index: 17.	 Time: 1841[us].
+Thread index: 18.	 Time: 1769[us].
+Thread index: 19.	 Time: 2458[us].
+Thread index: 20.	 Time: 2805[us].
+Thread index: 21.	 Time: 1670[us].
+Thread index: 22.	 Time: 1650[us].
+Thread index: 23.	 Time: 1536[us].
+Thread index: 24.	 Time: 1513[us].
+Thread index: 25.	 Time: 1485[us].
+Thread index: 26.	 Time: 1465[us].
+Thread index: 27.	 Time: 1452[us].
+Thread index: 28.	 Time: 1417[us].
+Thread index: 29.	 Time: 1383[us].
+Thread index: 30.	 Time: 1384[us].
+Thread index: 31.	 Time: 1219[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 15209[us].
+-----------------------------------------
+
+-----------------------------------------
+Number of threads: 32.
+Used method: block.
+=========================================
+Thread index: 0.	 Time: 213[us].
+Thread index: 1.	 Time: 79[us].
+Thread index: 2.	 Time: 80[us].
+Thread index: 3.	 Time: 185[us].
+Thread index: 4.	 Time: 107[us].
+Thread index: 5.	 Time: 85[us].
+Thread index: 6.	 Time: 64[us].
+Thread index: 7.	 Time: 57[us].
+Thread index: 8.	 Time: 103[us].
+Thread index: 9.	 Time: 57[us].
+Thread index: 10.	 Time: 56[us].
+Thread index: 11.	 Time: 51[us].
+Thread index: 12.	 Time: 60[us].
+Thread index: 13.	 Time: 127[us].
+Thread index: 14.	 Time: 48[us].
+Thread index: 15.	 Time: 53[us].
+Thread index: 16.	 Time: 53[us].
+Thread index: 17.	 Time: 50[us].
+Thread index: 18.	 Time: 164[us].
+Thread index: 19.	 Time: 64[us].
+Thread index: 20.	 Time: 136[us].
+Thread index: 21.	 Time: 57[us].
+Thread index: 22.	 Time: 52[us].
+Thread index: 23.	 Time: 49[us].
+Thread index: 24.	 Time: 58[us].
+Thread index: 25.	 Time: 57[us].
+Thread index: 26.	 Time: 61[us].
+Thread index: 27.	 Time: 59[us].
+Thread index: 28.	 Time: 52[us].
+Thread index: 29.	 Time: 57[us].
+Thread index: 30.	 Time: 54[us].
+Thread index: 31.	 Time: 62[us].
+-   -   -   -   -   -   -   -   -   -   -
+Method total time: 2269[us].
+-----------------------------------------

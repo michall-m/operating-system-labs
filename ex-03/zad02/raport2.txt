@@ -1,0 +1,60 @@
+TEST: [small-5x10/2pairs]
+czas rzeczywisty:	0.00777300
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+TEST: [small-5x10/10pairs]
+czas rzeczywisty:	0.01177900
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+TEST: [small-5x10/200pairs]
+czas rzeczywisty:	0.36720200
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000100
+
+
+TEST: [medium-50x100/2pairs]
+czas rzeczywisty:	0.01217500
+czas użytkownika:	0.00000100
+czas systemowy:  	0.00000000
+
+
+TEST: [medium-50x100/30pairs]
+czas rzeczywisty:	0.11622000
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+TEST: [medium-50x100/100pairs]
+czas rzeczywisty:	0.38646800
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000100
+
+
+TEST: [big-500x1000/2pairs]
+czas rzeczywisty:	0.49412900
+czas użytkownika:	0.00004700
+czas systemowy:  	0.00000100
+
+
+TEST: [big-500x1000/5pairs]
+czas rzeczywisty:	0.49114300
+czas użytkownika:	0.00004700
+czas systemowy:  	0.00000100
+
+
+TEST: [big-500x1000/10pairs]
+czas rzeczywisty:	0.50289000
+czas użytkownika:	0.00004700
+czas systemowy:  	0.00000100
+
+
+TEST: [big-500x1000/200pairs]
+czas rzeczywisty:	3.47741400
+czas użytkownika:	0.00004700
+czas systemowy:  	0.00000100
+
+

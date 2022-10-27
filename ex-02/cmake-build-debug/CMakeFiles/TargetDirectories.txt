@@ -1,0 +1,3 @@
+/Users/michalmisiak/CLionProjects/SystemyOperacjny/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michalmisiak/CLionProjects/SystemyOperacjny/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michalmisiak/CLionProjects/SystemyOperacjny/cmake-build-debug/CMakeFiles/SystemyOperacjny.dir

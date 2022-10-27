@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SystemyOperacjny" targetName="SystemyOperacjny" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f111090-3cb0-4692-95e0-6af9c8e37596" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1pq1kRdF9rLdCY5W1yrex3BW6wG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cw03/zad02" />
+      <recent name="$PROJECT_DIR$/zad02" />
+      <recent name="$PROJECT_DIR$/zad04" />
+      <recent name="$PROJECT_DIR$/zad05" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/zad01" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cw01" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile.all (2)">
+    <configuration name="SystemyOperacjny" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SystemyOperacjny" TARGET_NAME="SystemyOperacjny" CONFIG_NAME="Debug" RUN_PATH="$PROJECT_DIR$/test_lib.c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all (1)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/cw01/zad02/Makefile" target="all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="all (2)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/cw01/zad3a/Makefile" target="all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="all" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/cw02/Makefile" target="all" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/cw02/Makefile" target="clean" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="test_lib.o" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/cw02/Makefile" target="test_lib.o" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile.all (2)" />
+        <item itemvalue="Makefile.all (1)" />
+        <item itemvalue="Makefile.all" />
+        <item itemvalue="Makefile.test_lib.o" />
+        <item itemvalue="Makefile.clean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f111090-3cb0-4692-95e0-6af9c8e37596" name="Default Changelist" comment="" />
+      <created>1615895948075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615895948075</updated>
+      <workItem from="1615895950740" duration="75849000" />
+      <workItem from="1616639811873" duration="10700000" />
+      <workItem from="1616683893445" duration="156000" />
+      <workItem from="1617034990040" duration="739000" />
+      <workItem from="1617138830048" duration="20453000" />
+      <workItem from="1617805460847" duration="3194000" />
+      <workItem from="1618316858412" duration="6939000" />
+      <workItem from="1618430370782" duration="7009000" />
+      <workItem from="1618486863880" duration="3787000" />
+      <workItem from="1618663135016" duration="122000" />
+      <workItem from="1618763003886" duration="1804000" />
+      <workItem from="1618870043456" duration="38000" />
+      <workItem from="1618941346892" duration="1952000" />
+      <workItem from="1619034270899" duration="16977000" />
+      <workItem from="1619062292366" duration="3109000" />
+      <workItem from="1619224451153" duration="88000" />
+      <workItem from="1619440934561" duration="5000" />
+      <workItem from="1619530962493" duration="847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1039" y="49" key="#Notifications" timestamp="1615935931843">
+      <screen x="-2560" y="-336" width="2560" height="1440" />
+    </state>
+    <state x="-1039" y="49" key="#Notifications/0.0.1440.900/-2560.-336.2560.1440@-2560.-336.2560.1440" timestamp="1615935931843" />
+    <state x="-1059" y="112" key="#SystemyOperacjny" timestamp="1616448274308">
+      <screen x="-2560" y="-336" width="2560" height="1440" />
+    </state>
+    <state x="-1059" y="112" key="#SystemyOperacjny/0.0.1440.900/-2560.-336.2560.1440@-2560.-336.2560.1440" timestamp="1616448274308" />
+    <state x="1258" y="382" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618487708207">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="-1302" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-2560.-336.2560.1440@-2560.-336.2560.1440" timestamp="1616542047015" />
+    <state x="1258" y="382" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1352@0.23.2560.1352" timestamp="1618487708207" />
+    <state x="1566" y="547" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618441408048">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="881" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1617805511865" />
+    <state x="1566" y="547" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1618441408048" />
+    <state x="-994" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.813/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616640842877" />
+    <state x="-994" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-2560.-313.2560.1352@-2560.-313.2560.1352" timestamp="1616638552792" />
+    <state x="896" y="425" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618318487294">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2112" y="237" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-82.1920.1080@1440.-82.1920.1080" timestamp="1617238600117" />
+    <state x="896" y="425" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1618318487294" />
+    <state x="-1664" y="105" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.873/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616645186101" />
+    <state width="1930" height="325" key="GridCell.Tab.0.bottom" timestamp="1616651492063">
+      <screen x="-2560" y="-313" width="2560" height="1417" />
+    </state>
+    <state width="1930" height="325" key="GridCell.Tab.0.bottom/0.23.1440.813/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616640937004" />
+    <state width="1930" height="325" key="GridCell.Tab.0.bottom/0.23.1440.873/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616651492063" />
+    <state width="1930" height="325" key="GridCell.Tab.0.bottom/0.23.1440.877/-2560.-313.2560.1352@-2560.-313.2560.1352" timestamp="1616641068110" />
+    <state width="1930" height="325" key="GridCell.Tab.0.center" timestamp="1616651492059">
+      <screen x="-2560" y="-313" width="2560" height="1417" />
+    </state>
+    <state width="1930" height="325" key="GridCell.Tab.0.center/0.23.1440.813/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616640937000" />
+    <state width="1930" height="325" key="GridCell.Tab.0.center/0.23.1440.873/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616651492059" />
+    <state width="1930" height="325" key="GridCell.Tab.0.center/0.23.1440.877/-2560.-313.2560.1352@-2560.-313.2560.1352" timestamp="1616641068108" />
+    <state width="1930" height="325" key="GridCell.Tab.0.left" timestamp="1616651492056">
+      <screen x="-2560" y="-313" width="2560" height="1417" />
+    </state>
+    <state width="1930" height="325" key="GridCell.Tab.0.left/0.23.1440.813/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616640936999" />
+    <state width="1930" height="325" key="GridCell.Tab.0.left/0.23.1440.873/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616651492056" />
+    <state width="1930" height="325" key="GridCell.Tab.0.left/0.23.1440.877/-2560.-313.2560.1352@-2560.-313.2560.1352" timestamp="1616641068107" />
+    <state width="1930" height="325" key="GridCell.Tab.0.right" timestamp="1616651492062">
+      <screen x="-2560" y="-313" width="2560" height="1417" />
+    </state>
+    <state width="1930" height="325" key="GridCell.Tab.0.right/0.23.1440.813/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616640937002" />
+    <state width="1930" height="325" key="GridCell.Tab.0.right/0.23.1440.873/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616651492062" />
+    <state width="1930" height="325" key="GridCell.Tab.0.right/0.23.1440.877/-2560.-313.2560.1352@-2560.-313.2560.1352" timestamp="1616641068109" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1617040309443">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.23.2560.1352@0.23.2560.1352" timestamp="1617040309443" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1617040309443">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.23.2560.1352@0.23.2560.1352" timestamp="1617040309443" />
+    <state x="1431" y="360" key="SettingsEditor" timestamp="1618487682605">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="-1129" y="23" key="SettingsEditor/0.0.1440.900/-2560.-336.2560.1440@-2560.-336.2560.1440" timestamp="1615941873952" />
+    <state x="1431" y="360" key="SettingsEditor/0.23.2560.1352@0.23.2560.1352" timestamp="1618487682605" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1615943914211">
+      <screen x="-2560" y="-336" width="2560" height="1440" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.877/-2560.-336.2560.1440@-2560.-336.2560.1440" timestamp="1615943914211" />
+    <state x="-2094" y="-236" width="1994" height="1240" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1615944237298">
+      <screen x="-2560" y="-336" width="2560" height="1440" />
+    </state>
+    <state x="-2094" y="-236" width="1994" height="1240" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/-2560.-336.2560.1440@-2560.-336.2560.1440" timestamp="1615944237297" />
+    <state x="798" y="419" key="com.intellij.ide.util.TipDialog" timestamp="1619440934386">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="449" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1618870045225" />
+    <state x="449" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1617034990156" />
+    <state x="2039" y="232" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-59.1920.992@1440.-59.1920.992" timestamp="1619224450945" />
+    <state x="798" y="419" key="com.intellij.ide.util.TipDialog/0.23.2560.1352@0.23.2560.1352" timestamp="1619440934386" />
+    <state x="478" y="438" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618487999584">
+      <screen x="0" y="23" width="2560" height="1352" />
+    </state>
+    <state x="478" y="438" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.2560.1352@0.23.2560.1352" timestamp="1618487999584" />
+    <state x="-2180" y="-198" width="1060" height="1035" key="dock-window-1" timestamp="1616646600930">
+      <screen x="-2560" y="-313" width="2560" height="1417" />
+    </state>
+    <state x="-2180" y="-198" width="1060" height="1035" key="dock-window-1/0.0.1440.896/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616646600930" />
+    <state x="-2180" y="-198" width="1060" height="1035" key="dock-window-1/0.23.1440.873/-2560.-313.2560.1417@-2560.-313.2560.1417" timestamp="1616644585223" />
+    <state x="2534" y="166" width="670" height="507" key="search.everywhere.popup" timestamp="1617239462535">
+      <screen x="1440" y="-82" width="1920" height="1080" />
+    </state>
+    <state x="-1102" y="-5" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-2560.-336.2560.1440@-2560.-336.2560.1440" timestamp="1616541756602" />
+    <state x="2534" y="166" width="670" height="507" key="search.everywhere.popup/0.0.1440.900/1440.-82.1920.1080@1440.-82.1920.1080" timestamp="1617239462535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/library.c</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/zad05/libsys.c</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/cw03/zad02/lib.c</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <breakpoint enabled="true" suspend="NONE" type="OCSymbolicBreakpointType">
+          <properties>
+            <option name="moduleName" value="lib.c" />
+            <option name="symbolPattern" value="malloc_error_break" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

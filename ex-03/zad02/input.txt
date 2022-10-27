@@ -1,0 +1,10 @@
+9
+[small-5x10/2pairs] 2 5x10.txt:5x10.txt
+[small-5x10/10pairs] 10 5x10.txt:5x10.txt
+[small-5x10/200pairs] 200 5x10.txt:5x10.txt
+[medium-50x100/2pairs] 2 50x100.txt:50x100.txt
+[medium-50x100/30pairs] 30 50x100.txt:50x100.txt
+[medium-50x100/100pairs] 100 50x100.txt:50x100.txt
+[big-500x1000/2pairs] 2 500x1000.txt:500x1000.txt
+[big-500x1000/5pairs] 5 500x1000.txt:500x1000.txt
+[big-500x1000/10pairs] 10 500x1000.txt:500x1000.txt

@@ -1,0 +1,90 @@
+[small-5x10/2pairs] test_merge_files
+czas rzeczywisty:	0.01109300
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[small-5x10/10pairs] test_merge_files
+czas rzeczywisty:	0.04770100
+czas użytkownika:	0.00000200
+czas systemowy:  	0.00000200
+
+
+[small-5x10/10pairs] test_create_array
+czas rzeczywisty:	0.00017300
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[small-5x10/10pairs] test_remove_blocks
+czas rzeczywisty:	0.00001700
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[small-5x10/10pairs/n=1] test_add_remove_blocks
+czas rzeczywisty:	0.00014900
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[small-5x10/10pairs/n=10] test_add_remove_blocks
+czas rzeczywisty:	0.00228400
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[medium-50x100/2pairs] test_merge_files
+czas rzeczywisty:	0.02011100
+czas użytkownika:	0.00000100
+czas systemowy:  	0.00000100
+
+
+[medium-50x100/2pairs] test_create_array
+czas rzeczywisty:	0.00017700
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[medium-50x100/30pairs] test_merge_files
+czas rzeczywisty:	0.26980600
+czas użytkownika:	0.00001900
+czas systemowy:  	0.00000600
+
+
+[medium-50x100/30pairs] test_create_array
+czas rzeczywisty:	0.00211500
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[medium-50x100/30pairs/n=2000] test_add_remove_blocks
+czas rzeczywisty:	3.82808600
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[big-500x1000/5pairs] test_merge_files
+czas rzeczywisty:	1.95951900
+czas użytkownika:	0.00018800
+czas systemowy:  	0.00000300
+
+
+[big-500x1000/5pairs] test_create_array
+czas rzeczywisty:	0.01423700
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[big-500x1000/5pairs] test_remove_blocks
+czas rzeczywisty:	0.00050500
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
+[big-500x1000/5pairs/n=5] test_add_remove_blocks
+czas rzeczywisty:	0.04662300
+czas użytkownika:	0.00000000
+czas systemowy:  	0.00000000
+
+
